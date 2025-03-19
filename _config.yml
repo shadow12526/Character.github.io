@@ -23,7 +23,7 @@ repository               : "shadow12526.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "雪之下星野"
+  name             : "xue"
   pronouns         : "He" # example: "she/her"  
   bio              : "我不爱吃香菜"
   location         : "地球"
@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            :  'A'
+  zhihu            : #
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
